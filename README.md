@@ -24,3 +24,5 @@ Here is the visualization of the top-performing categories we identified:
 ## 📁 Files in Repository
 - `Olist_EDA_Cleaning.ipynb`: The main notebook containing the full analysis code.
 - `top_categories_revenue.png`: Visualization of revenue distribution.
+
+## Data Source: You can find the dataset on Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
